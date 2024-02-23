@@ -1,1 +1,9 @@
+<?php
+//Variáveis: Escreva um script PHP que armazene seu nome e idade em variáveis e as exiba.
+    $var="Franciele Reis <br>";
+        echo $var;
+    $var="21 anos de idade";
+        echo $var;
 
+
+?>
