@@ -1,0 +1,20 @@
+<?php
+/*Operações Matemáticas: Desenvolva um script PHP que realize e exiba o resultado 
+de operações básicas (soma, subtração, multiplicação e divisão) entre dois números.*/
+ 
+$varSoma1=6;
+$varSoma2=2;
+
+
+$soma = $varSoma1 + $varSoma2;
+$subtração = $varSoma1 - $varSoma2;
+$multiplicação = $varSoma1 * $varSoma2;
+$divisão = $varSoma1 / $varSoma2;
+
+echo "Soma: " . $soma . "<br>";
+echo "Subtração: " . $subtração . "<br>";
+echo "Multiplicação " . $multiplicação . "<br>";
+echo "Divisão " . $divisão . "<br>";
+
+
+?>
