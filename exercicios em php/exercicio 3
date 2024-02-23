@@ -1,0 +1,13 @@
+<?php
+/*Concatenação de Strings: Crie um script PHP 
+que combine duas strings usando concatenação e exiba o resultado.*/
+ 
+$string1 = "Fran";
+$string2 =  "ciele";
+
+$uniao = $string1 . $string2;
+
+echo "Meu nome é: " . $uniao;
+
+
+?>
