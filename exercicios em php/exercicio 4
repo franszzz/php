@@ -1,1 +1,13 @@
+<?php
+/*Estruturas de Controle: Desenvolva um script PHP que utilize uma estrutura condicional 
+(if/else) para verificar se um número é positivo ou negativo.*/
+ 
+$numerov = 7;
 
+if($numerov > 0)
+ echo "positivo";
+else 
+echo "negativo";
+
+
+?>
